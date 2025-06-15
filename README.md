@@ -2,23 +2,30 @@
 
 A beautiful, responsive notes management application built with Svelte, TypeScript, and TailwindCSS.
 
+## UI Screenshots
+![Screenshot (86)](https://github.com/user-attachments/assets/583216b4-43c1-4b7f-ae00-9173aac0e27c)
+![Screenshot (89)](https://github.com/user-attachments/assets/68509f71-3222-40c0-8050-bf47d3b8aa67)
+![Screenshot (87)](https://github.com/user-attachments/assets/a6684675-6bf4-4c77-9859-37e170914a0d)
+![Screenshot (88)](https://github.com/user-attachments/assets/1dcda60e-bdc1-4ccd-93fa-b2e36df3e4ae)
+
 ## Features
 
 ### Core Functionality
-- ✅ **View Notes**: Display all notes in a responsive card grid
-- ✅ **Create Notes**: Add new notes with title and content
-- ✅ **Edit Notes**: Update existing notes with inline editing modal
-- ✅ **Delete Notes**: Remove notes with confirmation modal
-- ✅ **Search**: Filter notes by title and content
-- ✅ **Responsive Design**: Works seamlessly on mobile, tablet, and desktop
+- **View Notes**: Display all notes in a responsive card grid
+- **Create Notes**: Add new notes with title and content
+- **Edit Notes**: Update existing notes with inline editing modal
+- **Delete Notes**: Remove notes with confirmation modal
+- **Search**: Filter notes by title and content
+- **Responsive Design**: Works seamlessly on mobile, tablet, and desktop
+- **Dark Mode**: Integrated functionality to use in dark/light mode
 
 ### User Experience
-- 🎨 **Modern Design**: Clean, card-based layout with subtle shadows
-- ⚡ **Smooth Animations**: Fade-in, slide-up, and scale transitions
-- 🔄 **Loading States**: Visual feedback during API operations
-- ✨ **Micro-interactions**: Hover effects and button states
-- 📱 **Mobile-First**: Optimized for all screen sizes
-- 🎯 **Accessibility**: Proper ARIA labels and keyboard navigation
+- **Modern Design**: Clean, card-based layout with subtle shadows
+- **Smooth Animations**: Fade-in, slide-up, and scale transitions
+- **Loading States**: Visual feedback during API operations
+- **Micro-interactions**: Hover effects and button states
+- **Mobile-First**: Optimized for all screen sizes
+- **Accessibility**: Proper ARIA labels and keyboard navigation
 
 ## Tech Stack
 
@@ -99,8 +106,8 @@ src/
 ├── types/              # TypeScript type definitions
 │   └── Note.ts
 ├── App.svelte          # Main application component
-├── main.ts            # Application entry point
-└── app.css            # Global styles and Tailwind imports
+├── main.ts             # Application entry point
+└── app.css             # Global styles and Tailwind imports
 ```
 
 ## Available Scripts
